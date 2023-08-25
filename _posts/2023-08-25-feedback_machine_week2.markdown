@@ -8,9 +8,9 @@ categories: Electronic_Ensemble
 Here is the second iteration of a feedback machine we are creating in the ensemble. The notion is to create feedback loops of control data and audio to create a system that opens many parameters for compositional / improvisational control. Total control of the system should remain just out of reach.
 
 This system currently uses:
-Yamaha DX7
-MoogerFooger Delay
-Electrocomp EML 200 analog synthesizer
-Guitar Rig 6 plugin
+Yamaha DX7 <br>
+MoogerFooger Delay <br>
+Electrocomp EML 200 analog synthesizer <br>
+Guitar Rig 6 plugin <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IgNNpzlohfI?si=ezLTb9ZS2sogrgWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
