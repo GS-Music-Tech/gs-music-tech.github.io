@@ -8,14 +8,15 @@ categories: Electronic_Ensemble
 Here is the third iteration of a feedback machine we are creating in the ensemble. stem. Here we add ourselves as performers into the feedback syThe notion is to create feedback loops of control data and audio to create a system that opens many parameters for compositional / improvisational control. Total control of the system should remain just out of reach.
 
 This system gets rid of the:
+<br> 
 Yamaha DX7 <br>
 Guitar Rig 6 plugin <br>
 
-We keep the 
+We keep the: <br>
 MoogerFooger Delay <br>
 Electrocomp EML 200 analog synthesizer <br>
 
-We add:
+We add:<br>
 Guitar amplifier w/ effects
 MoogerFooger Filter
 TC Electronics Voice Processor
