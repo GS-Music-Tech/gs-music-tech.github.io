@@ -35,4 +35,4 @@ Electrocomp:
 MoogerFooger Delay:
 - It has is own LFO but we have to put the amount to 0.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UKEHarJoBG8?si=Qh2Xy47lGZyEiNCZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eIhfbRcPnZU?si=Jsxh6DZLys7_C9LC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
