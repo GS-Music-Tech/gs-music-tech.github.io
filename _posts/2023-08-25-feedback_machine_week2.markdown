@@ -15,9 +15,9 @@ Guitar Rig 6 plugin <br>
 
 Routing Path:
 Electrocomp: 
--It has Two VCO Loop among each other.
--The Master Oscillator Square Wave goes to the Input of VCO 1 and the Sine Wave goes to the Input of VCO 2.
--The Output goes to the MoogerFooger Delay Time parameter.
+- It has Two VCO Loop among each other.
+- The Master Oscillator Square Wave goes to the Input of VCO 1 and the Sine Wave goes to the Input of VCO 2.
+- The Output goes to the MoogerFooger Delay Time parameter.
 
 MoogerFooger Delay:
 - It has is own LFO but we have to put the amount to 0.
