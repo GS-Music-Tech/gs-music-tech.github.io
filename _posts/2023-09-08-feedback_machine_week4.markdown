@@ -5,7 +5,7 @@ date:   2023-09-01 12:07:02 -0400
 categories: Electronic_Ensemble
 ---
 
-Here is the third iteration of a feedback machine we are creating in the ensemble. Here we add ourselves as performers into the feedback system. The notion is to create feedback loops of control data and audio to create a system that opens many parameters for compositional / improvisational control. Total control of the system should remain just out of reach.
+Here is the third iteration of a feedback machine we are creating in the ensemble. stem. Here we add ourselves as performers into the feedback syThe notion is to create feedback loops of control data and audio to create a system that opens many parameters for compositional / improvisational control. Total control of the system should remain just out of reach.
 
 This system gets rid of the:
 <br> 
