@@ -5,7 +5,7 @@ date:   2023-09-08 12:07:02 -0400
 categories: Electronic_Ensemble
 ---
 
-Here is the fourth iteration of a feedback machine we are creating in the ensemble. We are becoming more comfortable with the sonic possibilities of the system. Now we are approaching the point where we are [listing parameters] (https://docs.google.com/document/d/1lYw9bYuNnITwB0W0fJwpcPJH5dJJpiytDCfaqSFjOMs/edit?usp=sharing) that we can compose in time. To compose these parameters over time, we will try to use John Cage's Fontana Mix score generator. Currently we lack transparencies that are necessary to use the score, so we spent some time creating the elements in the photo editing software, "gimp". This should allow us to move forward while the hunt for transparencies continues.  [Fontana Mix (Gimp)] (https://https://drive.google.com/file/d/1PGFur7S02zfGkiYue5uT1yZnGH_2YFaw/view?usp=sharing)
+Here is the fourth iteration of a feedback machine we are creating in the ensemble. We are becoming more comfortable with the sonic possibilities of the system. Now we are approaching the point where we are [listing parameters](https://docs.google.com/document/d/1lYw9bYuNnITwB0W0fJwpcPJH5dJJpiytDCfaqSFjOMs/edit?usp=sharing) that we can compose in time. To compose these parameters over time, we will try to use John Cage's Fontana Mix score generator. Currently we lack transparencies that are necessary to use the score, so we spent some time creating the elements in the photo editing software, "gimp". This should allow us to move forward while the hunt for transparencies continues.  [Fontana Mix (Gimp)](https://https://drive.google.com/file/d/1PGFur7S02zfGkiYue5uT1yZnGH_2YFaw/view?usp=sharing)
 
 ![Fontana Mix image](/assets/images/Fontana.png)
 
