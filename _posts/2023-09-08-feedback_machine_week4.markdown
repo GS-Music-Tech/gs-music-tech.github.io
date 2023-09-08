@@ -7,6 +7,8 @@ categories: Electronic_Ensemble
 
 Here is the fourth iteration of a feedback machine we are creating in the ensemble. We are becoming more comfortable with the sonic possibilities of the system. Now we are approaching the point where we are listing parameters that we can compose in time. To compose these parameters over time, we will try to use John Cage's Fontana Mix score generator. Currently we lack transparencies that are necessary to use the score, so we spent some time creating the elements in the photo editing software, "gimp". This should allow us to move forward while the hunt for transparencies continues. 
 
+![Fontana Mix image](/assets/images/Fontana.png)
+
 The system now involves:<br>
 MoogerFooger Delay <br>
 Electrocomp EML 200 analog synthesizer <br>
