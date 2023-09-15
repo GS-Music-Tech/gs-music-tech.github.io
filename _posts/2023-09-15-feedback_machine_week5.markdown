@@ -17,4 +17,3 @@ It was quite interesting to work out exactly how this would be done. The constra
 
 ![Fontana Graphic Scores](/assets/images/FontanaPic.jpg)
 
-![Fontana Pages](/assets/images/FontanaPages.jpg)
