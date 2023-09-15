@@ -15,4 +15,6 @@ We are using the Fontana Mix to assemble time and parameter values to organize t
 
 It was quite interesting to work out exactly how this would be done. The constraints will hopefully prove useful. We are excited to hear the result.
 
-![Fontana Mix image](/assets/images/FontanaPic.jpg)
+![Fontana Graphic Scores](/assets/images/FontanaPic.jpg)
+
+![Fontana Pages](/assets/images/FontanaPages.jpg)
