@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First iteration of Fonata Mix"
+title:  "First iteration of Fontana Mix"
 date:   2023-09-15 12:07:02 -0400
 categories: Electronic_Ensemble
 ---
