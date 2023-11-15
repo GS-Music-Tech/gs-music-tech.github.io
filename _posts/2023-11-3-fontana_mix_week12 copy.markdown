@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fontana Mix binaural"
+title:  "Fontana Mix Performance"
 date:   2023-11-2 12:07:02 -0400
 categories: Electronic_Ensemble
 ---
